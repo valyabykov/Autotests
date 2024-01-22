@@ -1,0 +1,102 @@
+{
+  "login_credentials": [
+    {
+      "username": "valentina.bykovskaya@amitechgrp.com",
+      "password": "12345ABc"
+    },
+    {
+      "username": "db@amitechgrp.com",
+      "password": "kind6iVy"
+    },
+    {
+      "username": "another-one@amitechgrp.com",
+      "password": "qwerty"
+    }
+  ],
+  "users": [
+    {
+      "first_name": "AutoFirstname",
+      "last_name": "AutoLastname",
+      "email": "valentina.bykovskaya+autotestPers@amitechgrp.com",
+      "password": "12345ABc",
+      "confirm_password": "12345ABc"
+    },
+    {
+      "first_name": "AutoFirstname",
+      "last_name": "AutoLastname",
+      "email": "valentina.bykovskaya@amitechgrp.com",
+      "password": "12345ABc",
+      "confirm_password": "12345ABc"
+    }
+
+  ],
+  "companies": [
+    {
+      "company_name": "Company AutoTest",
+      "general_contact_email": "valentina.bykovskaya+autotestGCE@amitechgrp.com",
+      "company_legal_name": "Company Legal Test",
+      "street": "Street Test",
+      "city": "City Test",
+      "postcode": "123456",
+      "country": "United States",
+      "state": "Texas",
+      "phone": "1234567890",
+      "admin_first_name": "Admin First Test",
+      "admin_last_name": "Admin Last Test",
+      "admin_email": "valentina.bykovskaya+autotestAE@amitechgrp.com",
+      "password": "12345ABc",
+      "confirm_password": "12345ABc"
+    },
+    {
+      "company_name": "Company AutoTest",
+      "general_contact_email": "valentina.bykovskaya+autotestGCE@amitechgrp.com",
+      "company_legal_name": "Company Legal Test",
+      "street": "Street Test",
+      "city": "City Test",
+      "postcode": "123456",
+      "country": "United States",
+      "state": "Texas",
+      "phone": "1234567890",
+      "admin_first_name": "Admin First Test",
+      "admin_last_name": "Admin Last Test",
+      "admin_email": "valentina.bykovskaya+autotestAE1@amitechgrp.com",
+      "password": "12345ABc",
+      "confirm_password": "12345ABc"
+    },
+    {
+      "company_name": "Company AutoTest",
+      "general_contact_email": "valentina.bykovskaya+autotestGCE1@amitechgrp.com",
+      "company_legal_name": "Company Legal Test",
+      "street": "Street Test",
+      "city": "City Test",
+      "postcode": "123456",
+      "country": "United States",
+      "state": "Texas",
+      "phone": "1234567890",
+      "admin_first_name": "Admin First Test",
+      "admin_last_name": "Admin Last Test",
+      "admin_email": "valentina.bykovskaya+autotestAE@amitechgrp.com",
+      "password": "12345ABc",
+      "confirm_password": "12345ABc"
+    }
+  ],
+  "search": [
+    {
+      "search_query": "apple"
+    }
+  ],
+  "order_guide_name": [
+    {
+      "name": "New Guide Autotest"
+    },
+    {
+      "name": "Changed Name Autotest"
+    },
+    {
+      "name": "1 Test Guide Autotest"
+    },
+    {
+      "name": "2 Test Guide Autotest"
+    }
+  ]
+}

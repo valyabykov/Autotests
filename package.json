@@ -1,0 +1,17 @@
+{
+  "name": "pwa-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.33.0",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.3",
+    "prettier": "^2.8.8"
+  },
+  "scripts": {
+    "env:dev": "cross-env test_env=dev npx playwright test --headed",
+    "env:stage": "cross-env test_env=stage npx playwright test --headed",
+    "debug": "PW_EXPERIMENTAL_TS_ESM=1 npx playwright test --ui",
+    "report": "npx playwright show-report"
+  }
+}

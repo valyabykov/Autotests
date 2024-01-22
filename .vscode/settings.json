@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env": {
+      "test_env": "dev"
+    }
+  }
+  

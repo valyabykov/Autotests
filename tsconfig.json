@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "build",
+    "baseUrl": ".",
+    "allowJs": true,
+    "paths": {
+      "@selector/*": ["selector/*"],
+      "@util/*": ["util/*"],
+      "@pool": ["pool.json"]
+    }
+  }
+}
